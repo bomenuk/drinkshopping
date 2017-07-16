@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Price": 1.25,
+    "Name": "Leaf Tea"
+  },
+  {
+    "Id": 2,
+    "Price": 1.99,
+    "Name": "Pepsi"
+  },
+  {
+    "Id": 3,
+    "Price": 1.39,
+    "Name": "DR Pepper"
+  },
+  {
+    "Id": 4,    
+    "Price": 2.45,
+    "Name": "Mango Lassi"
+  },
+  {
+    "Id": 5,
+    "Price": 2.99,
+    "Name": "Coconut Water"
+  },
+  {
+    "Id": 6,
+    "Price": 0.45,
+    "Name": "Coke"
+  }
+]
